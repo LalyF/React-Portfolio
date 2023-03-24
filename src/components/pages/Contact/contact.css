@@ -1,0 +1,44 @@
+.ContactPage {
+    margin-top: 50px;
+  }
+  
+  .ContactPage h2 {
+    text-align: center;
+  }
+  
+  .ContactPage form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  .ContactPage .form-group label {
+    font-weight: bold;
+  }
+  
+  .ContactPage .form-control {
+    border-radius: 0;
+  }
+  
+  .ContactPage button[type="submit"] {
+    margin-top: 10px;
+  }
+  
+  .ContactPage h4 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .ContactPage .list-inline {
+    text-align: center;
+  }
+  
+  .ContactPage .list-inline li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  .ContactPage .list-inline li:last-child {
+    margin-right: 0;
+  }
+  

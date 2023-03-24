@@ -1,0 +1,45 @@
+[
+  {
+    "pid": 1,
+    "ptitle": "NutriVerse",
+    "image": "nutriverse.jpg",
+    "link": "https://lalyf.github.io/NutriVerse/",
+    "github": "https://github.com/LalyF/NutriVerse.git"
+  },
+  {
+    "pid": 2,
+    "ptitle": "Horriseon",
+    "image": "project1.jpg",
+    "link": "https://lalyf.github.io/challenge1SEO/",
+    "github": "https://github.com/LalyF/challenge1SEO.git"
+  },
+  {
+    "pid": 3,
+    "ptitle": "Wellness Warrior",
+    "image": "WellnessWarrior.jpg",
+    "link": "https://cosmic-gaufre-4af241.netlify.app/",
+    "github": "https://github.com/LalyF/Wellness-Warrior.git"
+  },
+  {
+    "pid": 4,
+    "ptitle": "Project4",
+    "image": "02-portfolio-1.jpg",
+    "link": "https://lalyf.github.io/NutriVerse/",
+    "github": "A Secret Laboratory"
+  },
+  {
+    "pid": 5,
+    "ptitle": "Project5",
+    "image": "02-portfolio-1.jpg",
+    "link": "https://lalyf.github.io/NutriVerse/",
+    "github": "Nowhere, Kansas"
+  },
+  {
+    "pid": 6,
+    "ptitle": "Project6",
+    "image": "02-portfolio-1.jpg",
+    "link": "https://lalyf.github.io/NutriVerse/",
+    "github": "Bluffington"
+  }
+  
+]
