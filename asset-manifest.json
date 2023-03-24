@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.c2cab247.css",
-    "main.js": "/React-Portfolio/static/js/main.770ecf4f.js",
+    "main.css": "/React-Portfolio/static/css/main.4d93c03d.css",
+    "main.js": "/React-Portfolio/static/js/main.bd9f95cf.js",
+    "static/media/02-portfolio-1.jpg": "/React-Portfolio/static/media/02-portfolio-1.c905c2d12b5c9b7485ff.jpg",
+    "static/media/project1.jpg": "/React-Portfolio/static/media/project1.d8974ae700f222aeebde.jpg",
+    "static/media/WellnessWarrior.jpg": "/React-Portfolio/static/media/WellnessWarrior.c212014950f892b76bc1.jpg",
+    "static/media/nutriverse.jpg": "/React-Portfolio/static/media/nutriverse.1c47e569e3e101a3f814.jpg",
+    "static/media/laly.jpg": "/React-Portfolio/static/media/laly.cda549f41bd1cb37825c.jpg",
+    "static/media/project2.jpg": "/React-Portfolio/static/media/project2.1bac3f19f0bb002a76ad.jpg",
+    "static/media/image.jpg": "/React-Portfolio/static/media/image.be2a7ec105ed206ae76e.jpg",
+    "static/media/webdevelopment.jpg": "/React-Portfolio/static/media/webdevelopment.54c40787d51645b554b8.jpg",
     "index.html": "/React-Portfolio/index.html",
-    "main.c2cab247.css.map": "/React-Portfolio/static/css/main.c2cab247.css.map",
-    "main.770ecf4f.js.map": "/React-Portfolio/static/js/main.770ecf4f.js.map"
+    "main.4d93c03d.css.map": "/React-Portfolio/static/css/main.4d93c03d.css.map",
+    "main.bd9f95cf.js.map": "/React-Portfolio/static/js/main.bd9f95cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.c2cab247.css",
-    "static/js/main.770ecf4f.js"
+    "static/css/main.4d93c03d.css",
+    "static/js/main.bd9f95cf.js"
   ]
 }
